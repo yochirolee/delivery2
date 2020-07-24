@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\n\nvar SideBar = function SideBar(_ref) {\n  var open = _ref.open;\n  return __jsx(\"div\", {\n    className: open ? \"fixed right-0 lg:w-2/6  mr-1 w-3/4 bg-gray-100 h-full mt-2 \" : \"hidden  \"\n  });\n};\n\nexport default SideBar;","map":null,"metadata":{},"sourceType":"module"}
